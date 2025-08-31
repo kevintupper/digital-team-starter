@@ -1,0 +1,7 @@
+{
+  "name": "agent-<slug>",
+  "description": "Starter Copilot Studio agent configuration. Replace fields with real solution package data.",
+  "knowledgeSources": [
+    "kb-<slug>"
+  ]
+}

@@ -89,6 +89,20 @@ digital-team-starter/
 
 ---
 
+## ✅ Created structure
+
+I created the initial folder structure and starter placeholder files to get you going:
+
+- `provisioning/README.md` - notes and a scaffold `provision-kb.ps1` script
+- `flows/README.md` and `flows/approval-flow.json` - placeholder flow template
+- `solutions/README.md` and `solutions/agent-template.json` - agent config starter
+- `docs/README.md` and `docs/architecture.md` - docs and architecture notes
+- `.gitkeep` - keeps the repo directories visible when empty
+
+Add real scripts, exported flows, and solution packages into these folders and I can help wire up CI, tests, or a deployment pipeline next.
+
+---
+
 ## 📖 Roadmap
 
 We’ll expand this README as we go.  
