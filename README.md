@@ -35,12 +35,14 @@ so your Digital Team can deliver **both trusted answers and safe actions**.
 
 ## 📂 Repo Structure (planned)
 
+```
 digital-team-starter/
 ├─ provisioning/        # PowerShell scripts (PnP, Graph) for schema + KB setup
 ├─ flows/               # Power Automate templates (approvals, copy to published)
 ├─ solutions/           # Copilot Studio agent templates (Solution packages)
 ├─ docs/                # Playbook, diagrams, story
 └─ README.md            # This file
+```
 
 ---
 
